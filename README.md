@@ -14,6 +14,10 @@
    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" width="120" alt="Java">
    <img src="https://e7.pngegg.com/pngimages/328/221/png-clipart-c-programming-language-logo-microsoft-visual-studio-net-framework-javascript-icon-purple-logo.png" width="120" alt="C#">
    <img src="https://static-00.iconduck.com/assets.00/nodejs-icon-2048x2048-rueyo8fw.png" width="120" alt="Node">
+      <img src="https://w1.pngwing.com/pngs/385/9/png-transparent-angular-red-getting-started-with-angular-rxjs-debugging-progressive-web-apps-singlepage-application-web-application-software-framework-thumbnail.png" width="120" alt="Node">
+
+
+
 
 
 
