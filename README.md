@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://png.pngtree.com/png-clipart/20220515/original/pngtree-bussines-woman-with-suit-holding-laptop-png-image_7715953.png"  />
 
 ###
 
